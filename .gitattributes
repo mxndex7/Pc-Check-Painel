@@ -1,0 +1,4 @@
+# O .bat precisa de CRLF e de UTF-8 sem BOM. Nao deixe o Git converter.
+*.bat   text eol=crlf
+*.md    text eol=lf
+*.txt   text eol=lf

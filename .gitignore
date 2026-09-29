@@ -1,0 +1,10 @@
+# Relatorios gerados pelo painel
+Relatorios_PC/
+*.log
+
+# Sistema e editores
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
